@@ -12,6 +12,6 @@ RoxygenNote: 7.2.1.9000
 Encoding: UTF-8
 Imports: yaml, R6
 NeedsCompilation: no
-Packaged: 2024-03-26 09:18:54 UTC; gaborcsardi
+Packaged: 2024-03-26 09:30:48 UTC; gaborcsardi
 Author: Gábor Csárdi [aut, cre, cph]
 Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
